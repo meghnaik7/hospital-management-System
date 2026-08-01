@@ -229,7 +229,7 @@ http://localhost:8080/h2-console
 | Field | Value |
 |-------|-------|
 | JDBC URL | `jdbc:h2:mem:hospitaldb` |
-| Username | `sa` |
+| Username | *(leave blank)* |
 | Password | *(leave blank)* |
 
 > Note: Data resets every time the application restarts (in-memory DB).
