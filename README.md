@@ -249,8 +249,4 @@ http://localhost:8080/h2-console
 8. PATCH /api/appointments/1/status?status=COMPLETED  → mark done (use DOCTOR token)
 ```
 
----
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
